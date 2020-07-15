@@ -12,3 +12,5 @@ class Pizza extends Component {
     );
   }
 }
+
+export default Pizza;
